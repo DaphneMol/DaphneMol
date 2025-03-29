@@ -1,8 +1,4 @@
 # Hi there, I'm Daphne Mol 👋 
-
-[Website](https://lilacdaphne.nl/)
-
-
 ## A passionate frontend developer from The Netherlands
 
 - 🔭 I’m currently working on [Funko Wordpress Plugin](https://github.com/DaphneMol/Collectamols-Funko)
