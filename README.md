@@ -16,7 +16,7 @@
   <summary> :diamond_shape_with_a_dot_inside: Recent Blog Posts </summary>
   
 <!-- BLOG-POST-LIST:START -->
-
+- [Wie ben ik](https://lilacdaphne.nl/personal/wie-ben-ik/)
 <!-- BLOG-POST-LIST:END -->
   ➡️ [more blog posts...](https://lilacdaphne.nl/)
 </details>
